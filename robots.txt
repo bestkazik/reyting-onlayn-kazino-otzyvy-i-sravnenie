@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://bestkazik.github.io/reyting-onlayn-kazino-otzyvy-i-sravnenie/sitemap.xml
